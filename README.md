@@ -67,7 +67,7 @@ git clone REPOSITORY_URL
 ### 2. Navigate to the Repository
 
 ```bash
-cd IC2K2305-DAA-Anushka_Sharma
+cd IC2K2312-DAA-Anushka_Sharma
 ```
 
 ### 3. Navigate to an Experiment Folder
