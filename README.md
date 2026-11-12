@@ -2,7 +2,7 @@
 
 **Course:** MCA  
 **Subject:** Design and Analysis of Algorithms (DAA)  
-**Course Code:** IC2K2305  
+**Roll No.:** IC2K2312 
 **Institution:** International Institute of Professional Studies (IIPS), DAVV, Indore
 
 ## About This Repository
@@ -67,7 +67,7 @@ git clone REPOSITORY_URL
 ### 2. Navigate to the Repository
 
 ```bash
-cd IC2K2305-DAA-Abdul_Rehman
+cd IC2K2305-DAA-Anushka_Sharma
 ```
 
 ### 3. Navigate to an Experiment Folder
